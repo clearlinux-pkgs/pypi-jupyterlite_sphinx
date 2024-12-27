@@ -1,5 +1,5 @@
 PKG_NAME := pypi-jupyterlite_sphinx
-URL = https://files.pythonhosted.org/packages/4a/91/011ee5fa37f8e26fb3d81dd7e0a46dfd884820a2b2167840b7840627342f/jupyterlite_sphinx-0.17.1.tar.gz
+URL = https://files.pythonhosted.org/packages/e9/b9/8697005fdce3eb3f8307a1d56711d6ab025d10b684dd1619850e0fb3c6fd/jupyterlite_sphinx-0.16.5.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
